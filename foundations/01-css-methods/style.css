@@ -1,9 +1,16 @@
 .header-color{
     background-color: red;
-    vertical-align: middle;
     text-align: center;
     color:white;
     font-weight: 600;
     font-size: 32px;
 }
 
+.text-description{
+    background-color: green;
+    color: white
+}
+
+.button{
+    background-color: yellow;
+}
